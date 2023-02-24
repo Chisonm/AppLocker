@@ -1,0 +1,18 @@
+{
+    "name": "chisonm/applocker",
+    "description": "This package provides a simple and effective way to lock an application behind a password, ensuring that unauthorized users cannot access any routes or content without first entering the correct password.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chisonm\\Applocker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Chisom"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
